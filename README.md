@@ -131,7 +131,7 @@ uint32_t fg = lighten_colour(colour_yellow, 20);  // 20% lighter
 
 ## 📄 License
 
-This library is licensed under the **MIT License**. See `LICENSE.md`.
+This library is licensed under the **MIT License**. See `LICENSE.txt`.
 
 ---
 
