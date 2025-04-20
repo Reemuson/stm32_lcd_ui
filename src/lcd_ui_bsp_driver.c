@@ -16,8 +16,8 @@
  */
 
 #include "lcd_ui.h"
-#include "stm32h747i_discovery_lcd.h"
-#include "stm32_lcd.h"
+#include "stm32h747i_discovery_lcd.h" // STM32 board specific LCD header
+#include "stm32_lcd.h"                // STM32 LCD driver header
 
 static void driver_init(void)
 {

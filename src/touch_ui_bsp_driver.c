@@ -16,7 +16,7 @@
  */
 
 #include "touch_ui_driver.h"
-#include "stm32h747i_discovery_ts.h"
+#include "stm32h747i_discovery_ts.h" // STM32 board specific touchscreen header
 #include "main.h"
 
 static TS_State_t internal_ts_state; /* Track last read */
